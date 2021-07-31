@@ -6,8 +6,7 @@
 	The purpose of this project was to execute a code to refactor the data to make it run faster.
 ## Analysis and Challenges
 	The analysis had a faster run time the more it was repeated. 
-### Challenges and Difficulties Encountered
-	Activating the worksheet seemed to be my biggest difficulty. I was confused on when to switch "tabs" and how to make sure the correct one was activated.
+
 ## Results
 
 	Refactoring code has its advantages when it comes to enhancement and making sure the code has proper structure. This can make the code easily understandable because code is loosely restructed and duplicate code is eliminated. The disadvantage is that it may introduce bugs in its maintainability in the future of the design code.
